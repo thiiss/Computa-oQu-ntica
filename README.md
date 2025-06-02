@@ -21,5 +21,4 @@ O aprendizado de máquina quântico combina técnicas de aprendizado com algorit
 5. Comunicação Segura
 A segurança da comunicação é crucial em sistemas de evacuação. A computação quântica oferece métodos de criptografia quântica, que garantem a segurança das informações transmitidas, protegendo dados críticos sobre rotas de evacuação contra interceptações.
 
-Conclusão
 Embora a computação quântica ainda esteja em desenvolvimento, seu potencial para otimizar sistemas de evacuação e roteamento é significativo. À medida que a tecnologia avança, novas aplicações práticas podem surgir, melhorando a segurança e a eficácia na gestão de crises. A interseção entre computação quântica e sistemas de evacuação é uma área promissora para pesquisa, com implicações importantes para a proteção de vidas em situações de emergência.
