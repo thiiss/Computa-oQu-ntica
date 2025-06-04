@@ -1,4 +1,4 @@
-# Computação Quântica
+# Computação Quântica e Supercomputadores
 Global Solution 2025_1 
 
 <p>EvacTech Quântica: Otimizando Decisão em Rotas<br>
