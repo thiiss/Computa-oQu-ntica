@@ -1,8 +1,20 @@
-# Computação Quântica e Supercomputadores
-Global Solution 2025_1 
+# Repositório de Projetos de Computação Quântica
 
-<p>EvacTech Quântica: Otimizando Decisão em Rotas<br>
-Emergenciais com Computação Quântica Desenvolver um protótipo ou simulação de um algoritmo de roteamento inteligente inspirado em modelos de computação quântica (como superposição e emaranhamento) que poderia otimizar decisões em sistemas de evacuação baseados em sensores IoT. A entrega deve demonstrar como conceitos quânticos podem contribuir para eficiência, paralelismo e tratamento de incertezas em cenários de risco extremo.</p>
+Bem-vindo ao repositório de projetos de Computação Quântica! Este espaço é dedicado ao armazenamento e compartilhamento de projetos desenvolvidos durante o curso de Computação Quântica. Aqui, você encontrará uma variedade de implementações que exploram os princípios e aplicações da tecnologia quântica.
 
-<p><strong>Objetivo</strong><br>
-Elaborar um experimento computacional que utilize conceitos de computação quântica (como superposição, emaranhamento ou operações com portas quânticas) simulados com Qiskit para representar o processo de tomada de decisão em um sistema de evacuação de emergência baseado em sensores. A proposta é criar um modelo simbólico, visual ou matemático, que represente o estado de sensores (IoT) em tempo real, e como decisões de evacuação poderiam ser otimizadas utilizando um circuito quântico simulado.</p>
+## Conteúdo do Repositório
+
+- **Circuitos Quânticos**: Exemplos de circuitos quânticos usando Qiskit para simular fenômenos quânticos e resolver problemas complexos.
+- **Algoritmos Quânticos**: Implementações de algoritmos quânticos fundamentais, como Grover e Shor, com explicações detalhadas.
+- **Simulações de Sistemas**: Projetos que utilizam simulações quânticas para modelar sistemas físicos e computacionais.
+- **Aplicações Práticas**: Estudos de caso que demonstram o uso da computação quântica em áreas como otimização, criptografia e análise de dados.
+
+## Objetivos
+
+- **Aprendizado e Exploração**: Facilitar o aprendizado dos conceitos de computação quântica através de projetos práticos.
+- **Colaboração**: Promover a colaboração entre estudantes e entusiastas da área, incentivando o compartilhamento de ideias e soluções.
+- **Inovação**: Explorar novas fronteiras da computação quântica, contribuindo para o desenvolvimento de tecnologias avançadas.
+
+## Como Contribuir
+
+Sinta-se à vontade para explorar os projetos, abrir issues para discutir melhorias ou dúvidas, e contribuir com suas próprias implementações. Este repositório é um espaço aberto para inovação e aprendizado colaborativo.
