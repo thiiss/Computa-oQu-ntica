@@ -15,6 +15,3 @@ Bem-vindo ao repositório de projetos de Computação Quântica! Este espaço é
 - **Colaboração**: Promover a colaboração entre estudantes e entusiastas da área, incentivando o compartilhamento de ideias e soluções.
 - **Inovação**: Explorar novas fronteiras da computação quântica, contribuindo para o desenvolvimento de tecnologias avançadas.
 
-## Como Contribuir
-
-Sinta-se à vontade para explorar os projetos, abrir issues para discutir melhorias ou dúvidas, e contribuir com suas próprias implementações. Este repositório é um espaço aberto para inovação e aprendizado colaborativo.
